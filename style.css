@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #29292e;
+}
+
+#page{
+    
+    width: 1200px; 
+    
+    margin: 48px auto 28px;
+    background-color: #fff;
+    
+    
+}
+
+main {
+    padding: 40px ;
+    align-items: center;
+}
+
+.sobre {
+    color: #e1624f;
+    font-weight: bold;
+    margin-top: 64px;
+    text-transform: uppercase; 
+}
+
+.busan {
+    margin-top: 8px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.description {
+    padding-top: 24px ;
+    padding-bottom: 40px;
+    font-style: italic;
+    text-align: center;   
+}
+
+.templos p {
+    padding-top: 8px;
+}
+
+.templo-1 {
+    padding-top: 64px;
+    padding-bottom: 20px;
+}
+
+.bom {
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+ul{
+    padding-left: 20px;
+    
+    font-weight: bold;
+}
+
+ul li {
+    color: blue;
+}
+
+.fotos {
+    margin-top: 48px;
+    margin-bottom: 20px;
+}
+
+.cor-1{
+    color: #591b98;
+}
+
+.cor-2{
+    color: #e5245e;
+}
+
+.cor-3{
+    color: #e95e10;
+}
+
+.space {
+    margin-bottom: 40px;
+    
+}
+
+.coisas {
+    padding-top: 40px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+footer img {
+    vertical-align: middle;
+}
